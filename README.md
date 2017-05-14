@@ -1,1 +1,4 @@
 # dataMiningWaste
+
+
+hello friend
