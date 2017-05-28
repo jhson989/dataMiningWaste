@@ -7,7 +7,7 @@ http://data.go.kr/dataset/3045421/openapi.do
 #### Meteorological Data of Korean Cities - Korean Meterorological Administration
 https://data.kma.go.kr/
 
-## Used Features
+## Used Meteorological Features
 Temperature, Precipitation, 
 
 ## Result
